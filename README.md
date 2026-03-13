@@ -30,6 +30,5 @@ Verify the theoretical and practical values.
 
 ## Formula Used: 
 
-## Circuit Diagram :<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (1)" src="https://github.com/user-
-  attachments/assets/8f2fd38d-b639-4e86-a88d-b0c5f17e3824" /> 
+## Circuit Diagram :<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (1)" src="https://github.com/user-attachments/assets/8f2fd38d-b639-4e86-a88d-b0c5f17e3824" /> 
 <img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (2)" src="https://github.com/user-attachments/assets/f8c0607d-69ee-412e-9e6b-2165860ec546" />
