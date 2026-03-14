@@ -2,33 +2,105 @@
 
 ### Reg no : 212224250016
 
-##Aim:
-To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
+# EXP-1
+EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 
-Apparatus Required:
-Sl. No. Apparatus Specification Quantity
+# AIM
 
-Regulated Power Supply (RPS) (0-30)V 2 nos.
+a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
+b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
 
-Resistors 2.2 kΩ 1 no. 1 kΩ 1 no. 3.3 kΩ 1 no.
+# APPARATUS REQUIRED:
 
-Ammeter (0-5)mA 2 nos. (0-2)mA 1 no.
+S.No.	Components	Range	Quantity
 
-Voltmeter (0-5)V 3 nos.
+1	Resistor	1kΩ	3
 
-Connecting wires few
+2	Voltmeter (DC)	0-30V	3
 
-Procedure:
+3	Ammeter (DC)	(0-200)mA	3
 
-Make the connections as per the circuit diagram.
+4	Bread Board		1
 
-Switch ON the power supply and apply voltage as per the circuit diagram.
+5	Regulated Power Supply	(0-30)V	1
 
-Measure the voltages and currents and note down the values in the tabular column
+6	Connecting wires		As required
 
-Verify the theoretical and practical values.
+# THEORY:
 
-## Formula Used: 
+KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
 
-## Circuit Diagram :<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (1)" src="https://github.com/user-attachments/assets/8f2fd38d-b639-4e86-a88d-b0c5f17e3824" /> 
-<img width="1366" height="599" alt="Circuit Construction Kit_ DC - Virtual Lab screenshot (2)" src="https://github.com/user-attachments/assets/f8c0607d-69ee-412e-9e6b-2165860ec546" />
+KCL:
+Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+
+
+
+# PROCEDURE:
+
+a.   KVL:
+
+1.   Connect as per the circuit diagram.
+2.   Check if the RPS voltage is set to zero voltage.
+3.   Check all the meters for null position.
+4.   Switch on the RPS.
+5.   Set the input voltage to a value between 0V to 30V.
+6.   Record the voltage values shown in the voltmeter connected across each resistor.
+7.   Take readings for different values of input voltage and tabulate them.
+
+
+
+b.  KCL:
+1.   Connect as per the circuit diagram.
+2.   Check if the RPS voltage is set to zero voltage.
+3.   Check all the meters for null position.
+4.   Switch on the RPS.
+5.   Set the input voltage to a value between 0V to 30V.
+6.   Record the voltage values shown in the ammeter connected to each resistor.
+7.   Take readings for different values of input voltage and tabulate them. 
+
+# CIRCUIT DIAGRAM:
+
+
+a.   KVL:
+![IMG-20251119-WA0002](https://github.com/user-attachments/assets/08ce1c32-99b7-48a5-ba54-a9d8aa27c9c1)
+![KVL 9](https://github.com/user-attachments/assets/f0cb2192-6445-41d9-bcab-e17075846119)
+![KVL 15](https://github.com/user-attachments/assets/14286ef5-1011-4518-8e1b-844e2fdef92e)
+
+
+ 
+
+
+b.  KCL:
+
+![IMG-20251119-WA0003](https://github.com/user-attachments/assets/9d860b93-e802-4555-9af7-cfec533f93d3)
+![KCL 9](https://github.com/user-attachments/assets/d32a18fe-e4fc-4e86-9df6-828bef8525c1)
+![KCL 12](https://github.com/user-attachments/assets/6b702bb4-e74b-42c1-ae3c-ea3c5b854e38)
+
+ 
+
+Calculation:
+
+a.   KVL:
+
+![IMG-20251119-WA0004](https://github.com/user-attachments/assets/7d4d8f26-e249-4def-b540-018bde41dd28)
+ 
+
+
+b.  KCL:
+
+![IMG-20251119-WA0001](https://github.com/user-attachments/assets/ded23d6e-a9a9-4053-bf70-baa460514565)
+
+Tabulation:
+
+a.   KVL:
+ 
+![IMG-20251119-WA0005](https://github.com/user-attachments/assets/e4d6a32f-4677-4ba9-82cb-0b720ac9d1db)
+
+
+b.  KCL:
+
+![IMG-20251119-WA0006](https://github.com/user-attachments/assets/3241de90-3324-4af1-83a7-7cd37229a476)
+
+# RESULT:
+
+Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
